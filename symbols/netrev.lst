@@ -1,0 +1,50 @@
+Cadence Design Systems, Inc. netrev  Wed Sep 11 11:19:14 2002
+(C) Copyright 2002 Cadence Design Systems, Inc.
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+MISSING SYMBOL AS ERROR FALSE;
+SCHEMATIC_DIRECTORY '.';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'E:\PCB\library\cadence_lib\t.brd';
+NEW_BOARD_NAME 'E:\PCB\library\cadence_lib\t.brd';
+UPDATE_DEPTABLE FALSE;
+
+CmdLine: netrev -$ -5 -i . -y 1 E:\PCB\library\cadence_lib\#Taaaaaa01116.tmp
+
+------ Preparing to read pst files ------
+
+
+#1   ERROR(24) File not found
+     Packager files not found
+
+#2   ERROR(102) Run stopped because errors were detected
+
+netrev run on Sep 11 11:19:14 2002
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+  2 errors detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:05
+elapsed time  0:00:00
+

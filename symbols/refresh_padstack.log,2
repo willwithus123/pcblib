@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : ddr2-card.dra                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 02 10:27:33 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Sep 02 10:27:33 2015				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/ddr2-card.dra'
+Output design = ''
+PAD_STACK_LISTFILE  = 'C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/17x102bottom-smd.pad'
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+Completed refreshing all pad stacks successfully.

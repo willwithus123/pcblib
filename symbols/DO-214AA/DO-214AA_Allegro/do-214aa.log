@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DO-214AA.dra                                  )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Sun Oct 08 13:56:44 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DO-214AA/DO-214AA_Allegro
+    Name      = do-214aa.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

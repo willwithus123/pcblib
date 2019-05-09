@@ -1,0 +1,52 @@
+\t (00:00:02) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Oct 26 17:31:02 2017
+\t (00:00:02)         Host=DESKTOP-SDTG982 User=will Pid=2636 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols_create/CAPAE1040X1050N/CAPAE1040X1050N_Allegro/CAPAE1040X1050N.scr.txt
+\t (00:00:02) 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 729
+\i (00:00:02) trapsize 747
+\i (00:00:03) trapsize 1280
+\i (00:00:03) trapsize 1280
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:03) trapsize 32515
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (4 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:03) Opening Design "CAPAE1040X1050N.dra"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 18508
+\i (00:00:03) trapsize 18969
+\i (00:00:03) trapsize 32515
+\i (00:00:03) trapsize 32515
+\i (00:00:03) trapsize 29174
+\i (00:00:03) trapsize 3960
+\t (00:00:03) Creating Shapes on Package layers
+\t (00:00:03) Creating Pins
+\t (00:00:03) Creating Vias
+\t (00:00:03) Symbol Created
+\t (00:00:03) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols_create/CAPAE1040X1050N/CAPAE1040X1050N_Allegro/capae1040x1050n.psm'.
+\t (00:00:03) Starting Create symbol...
+\i (00:00:04) trapsize 960
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 939
+\i (00:00:04) trapsize 960
+\i (00:00:04) trapsize 960
+\d (00:00:04) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols_create/CAPAE1040X1050N/CAPAE1040X1050N_Allegro/CAPAE1040X1050N.dra
+\t (00:00:04) Symbol Saved
+   (00:00:04) t
+\i (00:00:04) trapsize 960
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 5.7084 2.0589
+\i (00:00:06) trapsize 1921
+\i (00:00:06) generaledit 
+\i (00:00:25) pick grid 10.6853 -0.8219
+\t (00:00:25) last pick:  10.1600 0.0000
+\i (00:00:29) exit 
+\e (00:00:29) Do you want to save the changes you made to CAPAE1040X1050N.dra?
+\i (00:00:31) fillin yes 
+\t (00:00:31) Symbol 'capae1040x1050n.psm' created.
+\t (00:00:31)     Journal end - Thu Oct 26 17:31:31 2017

@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Mon Jun 11 11:31:06 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/qfn32.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  34X11SMD being dumped.
+
+  130X130SMD being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+
+Total number of symbols dumped:            0
+*****************************************************
+

@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : rf_2400MHz_Inverted_F_Antenna_b.dra           )
+(    Software Version : 16.6S040                                      )
+(    Date/Time        : Fri Jul 01 14:33:54 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = rf_2400mhz_inverted_f_antenna_b.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

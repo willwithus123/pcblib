@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FPC-10P_1MM.dra                               )
+(    Software Version : 16.6S040                                      )
+(    Date/Time        : Tue Sep 06 20:36:36 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = fpc-10p_1mm.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

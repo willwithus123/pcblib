@@ -1,0 +1,155 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Oct 27 23:21:10 2017
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=4360 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DB9-308/DB9-308_Allegro/DB9-308.scr.txt
+\t (00:00:04) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1093
+\i (00:00:04) trapsize 1134
+\i (00:00:04) trapsize 1568
+\i (00:00:04) trapsize 1568
+\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:05) trapsize 39834
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (4 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 27752
+\i (00:00:05) trapsize 28801
+\i (00:00:05) trapsize 39834
+\i (00:00:05) trapsize 39834
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 27752
+\i (00:00:05) trapsize 28801
+\i (00:00:05) trapsize 39834
+\i (00:00:06) trapsize 39834
+\t (00:00:06) Opening Design "DB9-308.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 27752
+\i (00:00:06) trapsize 28801
+\i (00:00:06) trapsize 39834
+\i (00:00:06) trapsize 39834
+\i (00:00:06) trapsize 33934
+\i (00:00:06) trapsize 9065
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Symbol Created
+\t (00:00:06) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DB9-308/DB9-308_Allegro/db9-308.psm'.
+\t (00:00:06) Starting Create symbol...
+\i (00:00:06) trapsize 1929
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1869
+\i (00:00:07) trapsize 1929
+\i (00:00:07) trapsize 1929
+\d (00:00:07) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DB9-308/DB9-308_Allegro/DB9-308.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) trapsize 1929
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -5.0134 -2.8897
+\i (00:00:09) trapsize 3858
+\i (00:00:09) generaledit 
+\i (00:00:12) show measure 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -10.1065 1.9720
+\i (00:00:13) trapsize 1929
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -10.3765 -1.3848
+\i (00:00:14) trapsize 965
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -10.3572 -1.3461
+\i (00:00:16) trapsize 1929
+\i (00:00:18) show measure 
+\i (00:00:21) pick grid 11.5196 -0.9218
+\t (00:00:21) last pick:  11.5000 -0.9000
+\i (00:00:22) setwindow text
+\i (00:00:22) close 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) show measure 
+\i (00:00:26) pick grid -9.7013 -2.7738
+\t (00:00:26) last pick:  -9.7000 -2.8000
+\i (00:00:27) pick grid -6.8462 -2.8510
+\t (00:00:27) last pick:  -6.8000 -2.9000
+\i (00:00:31) pick grid -8.5438 0.3901
+\t (00:00:31) last pick:  -8.5000 0.4000
+\i (00:00:31) pick grid -11.0904 0.3515
+\t (00:00:31) last pick:  -11.1000 0.4000
+\i (00:01:21) setwindow text
+\i (00:01:21) close 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) enved 
+\i (00:01:38) setwindow form.prfedit
+\i (00:01:38) FORM prfedit searchf MES 
+\i (00:01:43) FORM prfedit treelist  General Display 
+\i (00:01:50) FORM prfedit treelist  Cursor Display 
+\i (00:01:56) FORM prfedit searchf M 
+\i (00:02:06) FORM prfedit treelist  General Display 
+\i (00:02:07) FORM prfedit treelist  Element Display 
+\i (00:02:08) FORM prfedit treelist  Display 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) show measure 
+\i (00:02:34) setwindow form.prfedit
+\i (00:02:34) FORM prfedit searchf MEA 
+\i (00:02:39) FORM prfedit showmeasure_altunits mils 
+\i (00:02:42) FORM prfedit apply  
+\i (00:02:43) FORM prfedit done  
+\i (00:02:46) setwindow pcb
+\i (00:02:46) show measure 
+\i (00:02:47) pick grid -10.9360 0.1200
+\t (00:02:47) last pick:  -10.9000 0.1000
+\i (00:02:48) pick grid -8.2738 -0.0343
+\t (00:02:48) last pick:  -8.3000 0.0000
+\i (00:02:51) Esc 
+\i (00:02:51) pick grid -8.1194 0.1586
+\t (00:02:51) last pick:  -8.1000 0.2000
+\i (00:02:52) pick grid -5.6886 0.1972
+\t (00:02:52) last pick:  -5.7000 0.2000
+\i (00:02:53) Esc 
+\i (00:02:54) pick grid -5.4957 -0.1501
+\t (00:02:54) last pick:  -5.5000 -0.2000
+\i (00:02:55) pick grid -2.8335 -0.1501
+\t (00:02:55) last pick:  -2.8000 -0.2000
+\i (00:02:57) pick grid -1.3673 -2.6580
+\t (00:02:57) last pick:  -1.4000 -2.7000
+\i (00:02:57) pick grid -4.1453 -2.9281
+\t (00:02:57) last pick:  -4.1000 -2.9000
+\i (00:03:00) Esc 
+\i (00:03:01) Esc 
+\i (00:03:02) setwindow text
+\i (00:03:02) close 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) pick grid -0.1712 0.3129
+\t (00:03:11) last pick:  -0.2000 0.3000
+\i (00:03:14) pick grid 6.5809 -1.9249
+\t (00:03:14) last pick:  6.6000 -1.9000
+\i (00:04:20) Esc 
+\i (00:04:21) Esc 
+\i (00:04:22) pick grid -18.0740 -1.3462
+\t (00:04:22) last pick:  -18.1000 -1.3000
+\i (00:04:23) pick grid 6.9668 -1.1919
+\t (00:04:23) last pick:  7.0000 -1.2000
+\i (00:05:34) Esc 
+\i (00:05:35) pick grid -0.0554 0.3129
+\t (00:05:35) last pick:  -0.1000 0.3000
+\i (00:05:36) pick grid 6.5424 -1.5005
+\t (00:05:36) last pick:  6.5000 -1.5000
+\i (00:05:41) setwindow text
+\i (00:05:41) close 
+\i (00:05:42) setwindow pcb
+\i (00:05:42) pick grid 11.4425 5.3674
+\t (00:05:42) last pick:  11.4000 5.4000
+\i (00:05:43) setwindow text
+\i (00:05:43) close 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) exit 
+\e (00:05:46) Do you want to save the changes you made to DB9-308.dra?
+\i (00:05:47) fillin yes 
+\t (00:05:47) Symbol 'db9-308.psm' created.
+\t (00:05:47)     Journal end - Fri Oct 27 23:26:54 2017

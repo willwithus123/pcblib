@@ -1,0 +1,2 @@
+cd "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP8-208MIL/SOP8-208MIL_Allegro"
+skill (LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP8-208MIL/SOP8-208MIL_Allegro/SOP8-208MIL.xml")

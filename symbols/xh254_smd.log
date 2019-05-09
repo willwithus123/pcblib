@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : xh254_smd.dra                                 )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Aug 05 12:34:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols
+    Name      = xh254_smd.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

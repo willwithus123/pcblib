@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 43x23smd-2.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jul 27 18:07:05 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = 43x23smd-2.ssm
+    User      = Administrator
+    Machine   = USER-20150528KY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

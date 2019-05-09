@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SON127P600X500X80-8N.dra                      )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Wed Jan 24 18:27:25 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SON127P600X500X80-8N/SON127P600X500X80-8N_Allegro
+    Name      = son127p600x500x80-8n.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led_smd.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat May 14 22:18:01 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = led_smd.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

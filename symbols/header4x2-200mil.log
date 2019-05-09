@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : header4x2-200mil.dra                          )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Wed Nov 15 22:01:16 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols
+    Name      = header4x2-200mil.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

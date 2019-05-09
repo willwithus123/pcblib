@@ -1,0 +1,54 @@
+\t (00:00:03) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Nov 07 22:24:43 2017
+\t (00:00:03)         Host=DESKTOP-SDTG982 User=will Pid=4556 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOIC127P820X140-14N/SOIC127P820X140-14N_Allegro/SOIC127P820X140-14N.scr.txt
+\t (00:00:03) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1093
+\i (00:00:03) trapsize 1134
+\i (00:00:03) trapsize 1568
+\i (00:00:04) trapsize 1568
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 39834
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (4 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "SOIC127P820X140-14N.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 27752
+\i (00:00:04) trapsize 28801
+\i (00:00:04) trapsize 39834
+\i (00:00:04) trapsize 39834
+\i (00:00:04) trapsize 33934
+\i (00:00:04) trapsize 4494
+\t (00:00:04) Creating Shapes on Package layers
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Symbol Created
+\t (00:00:04) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOIC127P820X140-14N/SOIC127P820X140-14N_Allegro/soic127p820x140-14n.psm'.
+\t (00:00:04) Starting Create symbol...
+\i (00:00:05) trapsize 1017
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 985
+\i (00:00:05) trapsize 1017
+\i (00:00:05) trapsize 1017
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOIC127P820X140-14N/SOIC127P820X140-14N_Allegro/SOIC127P820X140-14N.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) trapsize 1017
+\i (00:00:09) show measure 
+\i (00:00:10) pick grid 3.5210 3.9464
+\t (00:00:10) last pick:  3.5000 3.9000
+\i (00:00:12) pick grid 3.2565 -3.7430
+\t (00:00:12) last pick:  3.3000 -3.7000
+\i (00:00:14) pick grid 2.9921 2.5021
+\t (00:00:14) last pick:  3.0000 2.5000
+\i (00:00:15) pick grid -3.2530 2.3394
+\t (00:00:15) last pick:  -3.3000 2.3000
+\i (00:01:02) setwindow text
+\i (00:01:02) close 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) exit 
+\t (00:01:03)     Journal end - Tue Nov 07 22:25:43 2017

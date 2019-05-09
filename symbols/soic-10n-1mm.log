@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC-10N-1mm.dra                              )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Mon Apr 15 13:27:47 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols
+    Name      = soic-10n-1mm.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

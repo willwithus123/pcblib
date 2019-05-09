@@ -1,0 +1,165 @@
+\t (00:00:05) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Nov 08 08:47:56 2017
+\t (00:00:05)         Host=DESKTOP-SDTG982 User=will Pid=11672 CPUs=4
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SHT20/SHT20_Allegro/SHT20.scr.txt
+\t (00:00:05) 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1093
+\i (00:00:05) trapsize 1134
+\i (00:00:05) trapsize 1568
+\i (00:00:05) trapsize 1568
+\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:05) trapsize 39834
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (4 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "SHT20.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 27752
+\i (00:00:06) trapsize 28801
+\i (00:00:06) trapsize 39834
+\i (00:00:06) trapsize 39834
+\i (00:00:06) trapsize 33934
+\i (00:00:06) trapsize 1433
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Symbol Created
+\t (00:00:06) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SHT20/SHT20_Allegro/sht20.psm'.
+\t (00:00:06) Starting Create symbol...
+\i (00:00:06) trapsize 338
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 327
+\i (00:00:06) trapsize 338
+\i (00:00:06) trapsize 338
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SHT20/SHT20_Allegro/SHT20.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) trapsize 338
+\i (00:00:08) zoom out 0.100000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 0.1092 0.6220 0.1
+\i (00:00:08) trapsize 372
+\i (00:00:08) generaledit 
+\i (00:00:08) zoom out 0.100000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 0.1092 0.6220 0.1
+\i (00:00:08) trapsize 409
+\i (00:00:09) zoom out 0.100000 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 0.1502 0.7610 0.1
+\i (00:00:09) trapsize 450
+\i (00:00:11) show measure 
+\i (00:00:12) pick grid 1.4638 0.9409
+\t (00:00:12) last pick:  1.5000 0.9000
+\i (00:00:13) pick grid 1.4278 0.0051
+\t (00:00:13) last pick:  1.4000 0.0000
+\i (00:00:21) pick grid -1.4245 1.0849
+\t (00:00:21) last pick:  -1.4000 1.1000
+\i (00:00:22) pick grid 1.3379 1.0219
+\t (00:00:22) last pick:  1.3000 1.0000
+\i (00:00:29) zoom out 0.100000 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 1.3379 1.0219 0.1
+\i (00:00:29) trapsize 495
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1.3379 1.0220 0.1
+\i (00:00:30) trapsize 544
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1.3379 1.0220 0.1
+\i (00:00:30) trapsize 599
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1.3379 1.0220 0.1
+\i (00:00:30) trapsize 659
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1.3378 1.0220 0.1
+\i (00:00:30) trapsize 725
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1.3379 1.0221 0.1
+\i (00:00:30) trapsize 797
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 0.9126 1.0221 0.1
+\i (00:00:30) trapsize 877
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 0.0359 1.0221 0.1
+\i (00:00:30) trapsize 964
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 0.3978 1.0222 0.1
+\i (00:00:30) trapsize 1061
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1.4336 1.1031 0.1
+\i (00:00:30) trapsize 1167
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 2.5729 1.9539 0.1
+\i (00:00:30) trapsize 1284
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 3.8262 2.8897 0.1
+\i (00:00:30) trapsize 1433
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 5.4354 4.0913 0.1
+\i (00:00:30) trapsize 1433
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 5.4354 4.0913 0.1
+\i (00:00:30) trapsize 1433
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 5.4354 4.0913 0.1
+\i (00:00:30) trapsize 1433
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 0.0169 -0.6391 0.1
+\i (00:00:31) trapsize 1303
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in -0.8901 -0.6390 0.1
+\i (00:00:31) trapsize 1185
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in -1.7146 -0.6390 0.1
+\i (00:00:31) trapsize 1077
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in -2.4642 -0.6390 0.1
+\i (00:00:31) trapsize 979
+\i (00:01:01) setwindow text
+\i (00:01:01) close 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) pick grid -1.5009 0.0856
+\t (00:01:02) last pick:  -1.5000 0.1000
+\i (00:01:04) pick grid 1.3972 0.0464
+\t (00:01:04) last pick:  1.4000 0.0000
+\i (00:01:06) pick grid 1.3384 0.9472
+\t (00:01:06) last pick:  1.3000 0.9000
+\i (00:01:08) pick grid 1.3384 0.0073
+\t (00:01:08) last pick:  1.3000 0.0000
+\i (00:01:09) pick grid -1.5009 -0.0515
+\t (00:01:09) last pick:  -1.5000 -0.1000
+\i (00:01:38) pick grid -2.1666 0.8493
+\t (00:01:38) last pick:  -2.2000 0.8000
+\i (00:01:54) pick grid 1.4363 -1.3634
+\t (00:01:54) last pick:  1.4000 -1.4000
+\i (00:01:56) pick grid -1.4617 -1.3830
+\t (00:01:56) last pick:  -1.5000 -1.4000
+\i (00:02:33) setwindow text
+\i (00:02:33) close 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) exit 
+\e (00:02:34) Do you want to save the changes you made to SHT20.dra?
+\i (00:02:36) fillin yes 
+\t (00:02:36) Symbol 'sht20.psm' created.
+\t (00:02:36)     Journal end - Wed Nov 08 08:50:27 2017

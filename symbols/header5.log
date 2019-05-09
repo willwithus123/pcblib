@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : header5.dra                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Fri Dec 02 00:17:48 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols
+    Name      = header5.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

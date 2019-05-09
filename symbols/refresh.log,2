@@ -1,0 +1,55 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : 9-216m.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jul 27 17:16:31 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Jul 27 17:16:31 2015				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/9-216m.dra'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'NO'
+Update shape/flash symbols = 'YES'
+Update symbol padstacks = 'NO'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'YES'
+Ripup Etch = 'YES'
+Reset custom drill data = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'TR_74_54'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

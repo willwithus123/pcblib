@@ -1,0 +1,59 @@
+\t (00:23:26) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:23:26)     Journal start - Fri Oct 06 20:18:44 2017
+\t (00:23:26)         Host=DESKTOP-SDTG982 User=will Pid=5856 CPUs=4
+\t (00:23:26) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\MS621FE.dra
+\t (00:23:26) 
+\d (00:23:26) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/QFP50P1235X1235X120-64N/QFP50P1235X1235X120-64N_Allegro/QFP50P1235X1235X120-64N.dra
+\i (00:23:26) generaledit 
+\i (00:23:27) zoom in 1 
+\i (00:23:27) setwindow pcb
+\i (00:23:27) zoom in -1.3551 4.4928
+\i (00:23:27) trapsize 1000
+\i (00:23:30) show element 
+\i (00:23:31) pick grid 4.5668 6.6736
+\t (00:23:31) last pick:  5.0800 7.6200
+\i (00:23:33) setwindow text
+\i (00:23:33) close 
+\i (00:23:33) setwindow pcb
+\i (00:23:33) zoom out 1 
+\i (00:23:33) setwindow pcb
+\i (00:23:33) zoom out 1.9460 1.0117
+\i (00:23:33) trapsize 2001
+\i (00:23:34) roam start
+\i (00:23:34) roam y -112
+\i (00:23:34) roam y -128
+\i (00:23:34) roam y -80
+\i (00:23:35) roam end
+\i (00:23:35) zoom in 1 
+\i (00:23:35) setwindow pcb
+\i (00:23:35) zoom in 3.5065 11.8787
+\i (00:23:35) trapsize 1000
+\i (00:23:36) zoom out 1 
+\i (00:23:36) setwindow pcb
+\i (00:23:36) zoom out 3.5465 11.8987
+\i (00:23:36) trapsize 2001
+\i (00:23:36) zoom out 1 
+\i (00:23:36) setwindow pcb
+\i (00:23:36) zoom out 3.5466 11.8987
+\i (00:23:36) trapsize 4001
+\i (00:23:36) zoom out 1 
+\i (00:23:36) setwindow pcb
+\i (00:23:36) zoom out 33.3814 -7.5077
+\i (00:23:36) trapsize 4385
+\i (00:23:37) zoom in 1 
+\i (00:23:37) setwindow pcb
+\i (00:23:37) zoom in -5.4176 -7.9301
+\i (00:23:37) trapsize 2193
+\i (00:23:38) pick grid -6.4621 -6.2637
+\t (00:23:38) last pick:  -7.6200 -5.0800
+\i (00:25:19) setwindow text
+\i (00:25:19) close 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) pick grid 32.4791 -5.8690
+\t (00:25:19) last pick:  33.0200 -5.0800
+\i (00:25:22) zoom in 1 
+\i (00:25:22) setwindow pcb
+\i (00:25:22) zoom in 1.4314 6.4975
+\i (00:25:22) trapsize 1096
+\i (00:26:38) exit 
+\t (00:26:38)     Journal end - Fri Oct 06 20:21:57 2017

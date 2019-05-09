@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 140d_d.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Apr 23 20:18:02 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = 140d_d.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

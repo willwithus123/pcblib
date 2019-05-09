@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : ziggbeemod.dra                                )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Sat Oct 28 21:06:06 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/3m5-music-color.dra
+	Layout Name   : ziggbeemod.dra
+
+Error at input file, line 1,   Message: An exception occurred! Type:UTFDataFormatException, Message:invalid byte 1 (?) of a 1-byte sequence.
+
+..... Total number of errors: 1.
+..... Total number of warnings: 0.

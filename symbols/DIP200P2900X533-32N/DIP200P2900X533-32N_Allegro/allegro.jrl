@@ -1,0 +1,26 @@
+\t (00:00:02) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jan 29 11:59:59 2018
+\t (00:00:02)         Host=DESKTOP-SDTG982 User=will Pid=2388 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\DIP200P2900X533-32N\DIP200P2900X533-32N_Allegro\DIP200P2900X533-32N.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DIP200P2900X533-32N/DIP200P2900X533-32N_Allegro/DIP200P2900X533-32N.dra
+\i (00:00:04) trapsize 4229
+\i (00:00:04) trapsize 4334
+\i (00:00:04) trapsize 3889
+\i (00:00:04) trapsize 3889
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -17.0604 -0.8495 0.1
+\i (00:00:05) trapsize 4277
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -17.0605 -0.8494 0.1
+\i (00:00:05) trapsize 4705
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -24.0605 -0.8495 0.1
+\i (00:00:05) trapsize 5176
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Mon Jan 29 12:00:03 2018

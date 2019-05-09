@@ -1,0 +1,48 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Oct 07 21:59:59 2017
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=776 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/CAPAE1000X610N/CAPAE1000X610N_Allegro/CAPAE1000X610N.scr.txt
+\t (00:00:04) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 563
+\i (00:00:04) trapsize 573
+\i (00:00:04) trapsize 1204
+\i (00:00:04) trapsize 1204
+\i (00:00:04) trapsize 1039
+\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:05) trapsize 26389
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (4 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "CAPAE1000X610N.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 14293
+\i (00:00:05) trapsize 14566
+\i (00:00:05) trapsize 30581
+\i (00:00:05) trapsize 30581
+\i (00:00:05) trapsize 3564
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Symbol Created
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/CAPAE1000X610N/CAPAE1000X610N_Allegro/capae1000x610n.psm'.
+\t (00:00:05) Starting Create symbol...
+\i (00:00:06) trapsize 790
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 769
+\i (00:00:06) trapsize 790
+\i (00:00:06) trapsize 790
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/CAPAE1000X610N/CAPAE1000X610N_Allegro/CAPAE1000X610N.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) trapsize 790
+\i (00:00:14) save_as 
+\i (00:00:19) fillin "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\CAPAE1000X610N.dra"
+\i (00:00:19) cd "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols"
+\t (00:00:19) Symbol 'capae1000x610n.psm' created.
+\i (00:01:03) trapsize 793
+\i (00:01:05) trapsize 790
+\i (00:01:08) exit 
+\t (00:01:08)     Journal end - Sat Oct 07 22:01:03 2017

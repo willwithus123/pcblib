@@ -1,0 +1,29 @@
+Mon Jul 27 17:16:30 2015				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Jul 27 17:16:30 2015
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : 9-216m.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jul 27 17:16:31 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHA1-119): Illegal pad shape. Occurred during saving the design.
+
+Symbols NOT updated, design not updated.

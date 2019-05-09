@@ -1,0 +1,2 @@
+cd "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOIC100P600X140-10N/SOIC100P600X140-10N_Allegro"
+skill (LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOIC100P600X140-10N/SOIC100P600X140-10N_Allegro/SOIC100P600X140-10N.xml")

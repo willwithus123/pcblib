@@ -1,0 +1,99 @@
+<Footprint name="SHT20" >
+ <Units type="millimeters" precision="4" />
+ <Extents minX="-9.9600" minY="-7.4050" width="19.6400" height="15.0800" />
+ <Padstack name="b77_45" type="single" > 
+  <Layers>
+    <Layer name="TOP" >
+     <Pad shape="oblong" width="0.7750" height="0.4500" />
+    </Layer>
+    <Layer name="SOLDERMASK_TOP" >
+     <Pad shape="oblong" width="0.7750" height="0.4500" />
+    </Layer>
+    <Layer name="PASTEMASK_TOP" >
+     <Pad shape="oblong" width="0.7750" height="0.4500" />
+    </Layer>
+  </Layers>
+ </Padstack>
+ <Pins>
+  <Pin number="1" padName="b77_45" originX="-1.4075" originY="1.0000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="2" padName="b77_45" originX="-1.4075" originY="0.0000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="3" padName="b77_45" originX="-1.4075" originY="-1.0000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="4" padName="b77_45" originX="1.4075" originY="-1.0000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="5" padName="b77_45" originX="1.4075" originY="0.0000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="6" padName="b77_45" originX="1.4075" originY="1.0000" rotation="180" isMechanical="no" textBlk="1" />
+ </Pins>
+ <Vias>
+ </Vias>
+ <Layers>
+  <Layer name="PACKAGE GEOMETRY/PLACE_BOUND_TOP" packageHeight="0.8000" >
+   <Path lineWidth="0.0500" type="shape" >
+    <Point x="-2.0450" y="-1.7500" />
+    <Point x="-2.0450" y="1.7500" />
+    <Point x="2.0450" y="1.7500" />
+    <Point x="2.0450" y="-1.7500" />
+    <Point x="-2.0450" y="-1.7500" />
+   </Path>
+  </Layer>
+  <Layer name="PACKAGE GEOMETRY/DFA_BOUND_TOP" packageHeight="0.8000" >
+   <Path lineWidth="0.0000" type="shape" >
+    <Point x="-2.0450" y="-1.7500" />
+    <Point x="-2.0450" y="1.7500" />
+    <Point x="2.0450" y="1.7500" />
+    <Point x="2.0450" y="-1.7500" />
+    <Point x="-2.0450" y="-1.7500" />
+   </Path>
+  </Layer>
+  <Layer name="MANUFACTURING/NO_PROBE_TOP" packageHeight="0.8000" >
+   <Path lineWidth="0.0000" type="shape" >
+    <Point x="-2.0450" y="-1.7500" />
+    <Point x="-2.0450" y="1.7500" />
+    <Point x="2.0450" y="1.7500" />
+    <Point x="2.0450" y="-1.7500" />
+    <Point x="-2.0450" y="-1.7500" />
+   </Path>
+  </Layer>
+  <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="0.8000" >
+   <Path lineWidth="0.1000" type="line" >
+    <Point x="1.4500" y="1.5000" />
+    <Point x="1.4500" y="-1.5000" />
+    <Point x="-1.4500" y="-1.5000" />
+    <Point x="-1.4500" y="1.5000" />
+    <Point x="1.4500" y="1.5000" />
+   </Path>
+   <Path lineWidth="0.1000" type="line" >
+    <Point x="-1.4500" y="1.4000" />
+    <Point x="-1.3500" y="1.5000" />
+   </Path>
+   <Path lineWidth="0.1000" type="line" >
+    <Point x="-1.4500" y="1.3000" />
+    <Point x="-1.2500" y="1.5000" />
+   </Path>
+   <Path lineWidth="0.1000" type="line" >
+    <Point x="-1.4500" y="1.2000" />
+    <Point x="-1.1500" y="1.5000" />
+   </Path>
+   <Path lineWidth="0.1000" type="line" >
+    <Point x="-1.4500" y="1.1000" />
+    <Point x="-1.0500" y="1.5000" />
+   </Path>
+   <Label layer="REF DES/ASSEMBLY_TOP" textBlock="3" angle="90" x="0.6750" y="0.0000" text="Ref" />
+  </Layer>
+  <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="0.8000" >
+   <Path lineWidth="0.2000" type="line" >
+    <Point x="-1.5500" y="1.5750" />
+    <Point x="-1.5500" y="1.6000" />
+    <Point x="1.5500" y="1.6000" />
+    <Point x="1.5500" y="1.5750" />
+   </Path>
+   <Path lineWidth="0.2000" type="line" >
+    <Point x="-1.5500" y="-1.5750" />
+    <Point x="-1.5500" y="-1.6000" />
+    <Point x="1.5500" y="-1.6000" />
+    <Point x="1.5500" y="-1.5750" />
+   </Path>
+   <Label layer="REF DES/SILKSCREEN_TOP" textBlock="3" angle="90" x="-1.3250" y="0.0000" text="Ref" />
+   <Label layer="DEVICE TYPE/SILKSCREEN_TOP" textBlock="3" angle="90" x="-0.8750" y="0.0000" text="Dev" />
+   <Circle type="shape" lineWidth="0.2000" originX="-2.3950" originY="1.0000" radius="0.2000" />
+  </Layer>
+ </Layers>
+</Footprint>

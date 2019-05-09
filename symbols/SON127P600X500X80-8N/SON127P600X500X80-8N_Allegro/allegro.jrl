@@ -1,0 +1,14 @@
+\t (00:00:07) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Jan 24 18:28:18 2018
+\t (00:00:07)         Host=DESKTOP-SDTG982 User=will Pid=11988 CPUs=4
+\t (00:00:07) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\SON127P600X500X80-8N\SON127P600X500X80-8N_Allegro\esim.dra
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SON127P600X500X80-8N/SON127P600X500X80-8N_Allegro/esim.dra
+\i (00:00:07) trapsize 1144
+\i (00:00:07) trapsize 1173
+\i (00:00:07) trapsize 1052
+\i (00:00:07) trapsize 1052
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Wed Jan 24 18:28:21 2018

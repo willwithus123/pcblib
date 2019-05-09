@@ -1,0 +1,143 @@
+<Footprint name="LCC110P1587X1777X254-44N" >
+ <Units type="millimeters" precision="4" />
+ <Extents minX="-41.0100" minY="-42.1700" width="82.0200" height="86.4200" />
+ <Padstack name="b230_75" type="single" > 
+  <Layers>
+    <Layer name="TOP" >
+     <Pad shape="oblong" width="2.3000" height="0.7500" />
+    </Layer>
+    <Layer name="SOLDERMASK_TOP" >
+     <Pad shape="oblong" width="2.3000" height="0.7500" />
+    </Layer>
+    <Layer name="PASTEMASK_TOP" >
+     <Pad shape="oblong" width="2.3000" height="0.7500" />
+    </Layer>
+  </Layers>
+ </Padstack>
+ <Padstack name="s100" type="single" > 
+  <Layers>
+    <Layer name="TOP" >
+     <Pad shape="square" width="1.0000" height="1.0000" />
+    </Layer>
+    <Layer name="SOLDERMASK_TOP" >
+     <Pad shape="square" width="1.0000" height="1.0000" />
+    </Layer>
+    <Layer name="PASTEMASK_TOP" >
+     <Pad shape="square" width="1.0000" height="1.0000" />
+    </Layer>
+  </Layers>
+ </Padstack>
+ <Pins>
+  <Pin number="6" padName="b230_75" originX="-7.4125" originY="6.6000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="7" padName="b230_75" originX="-7.4125" originY="5.5000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="8" padName="b230_75" originX="-7.4125" originY="4.4000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="9" padName="b230_75" originX="-7.4125" originY="3.3000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="10" padName="b230_75" originX="-7.4125" originY="2.2000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="11" padName="b230_75" originX="-7.4125" originY="1.1000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="12" padName="b230_75" originX="-7.4125" originY="0.0000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="13" padName="b230_75" originX="-7.4125" originY="-1.1000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="14" padName="b230_75" originX="-7.4125" originY="-2.2000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="15" padName="b230_75" originX="-7.4125" originY="-3.3000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="16" padName="b230_75" originX="-7.4125" originY="-4.4000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="17" padName="b230_75" originX="-7.4125" originY="-5.5000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="18" padName="b230_75" originX="-7.4125" originY="-6.6000" rotation="0" isMechanical="no" textBlk="1" />
+  <Pin number="19" padName="b230_75" originX="-4.4000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="20" padName="b230_75" originX="-3.3000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="21" padName="b230_75" originX="-2.2000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="22" padName="b230_75" originX="-1.1000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="23" padName="b230_75" originX="0.0000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="24" padName="b230_75" originX="1.1000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="25" padName="b230_75" originX="2.2000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="26" padName="b230_75" originX="3.3000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="27" padName="b230_75" originX="4.4000" originY="-8.3625" rotation="90" isMechanical="no" textBlk="1" />
+  <Pin number="28" padName="b230_75" originX="7.4125" originY="-6.6000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="29" padName="b230_75" originX="7.4125" originY="-5.5000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="30" padName="b230_75" originX="7.4125" originY="-4.4000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="31" padName="b230_75" originX="7.4125" originY="-3.3000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="32" padName="b230_75" originX="7.4125" originY="-2.2000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="33" padName="b230_75" originX="7.4125" originY="-1.1000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="34" padName="b230_75" originX="7.4125" originY="0.0000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="35" padName="b230_75" originX="7.4125" originY="1.1000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="36" padName="b230_75" originX="7.4125" originY="2.2000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="37" padName="b230_75" originX="7.4125" originY="3.3000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="38" padName="b230_75" originX="7.4125" originY="4.4000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="39" padName="b230_75" originX="7.4125" originY="5.5000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="40" padName="b230_75" originX="7.4125" originY="6.6000" rotation="180" isMechanical="no" textBlk="1" />
+  <Pin number="41" padName="b230_75" originX="4.4000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="42" padName="b230_75" originX="3.3000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="43" padName="b230_75" originX="2.2000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="44" padName="b230_75" originX="1.1000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="1" padName="b230_75" originX="0.0000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="2" padName="b230_75" originX="-1.1000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="3" padName="b230_75" originX="-2.2000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="4" padName="b230_75" originX="-3.3000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+  <Pin number="5" padName="b230_75" originX="-4.4000" originY="8.3625" rotation="270" isMechanical="no" textBlk="1" />
+ </Pins>
+ <Vias>
+ </Vias>
+ <Layers>
+  <Layer name="PACKAGE GEOMETRY/PLACE_BOUND_TOP" packageHeight="2.5400" >
+   <Path lineWidth="0.0500" type="shape" >
+    <Point x="-8.8125" y="-9.7625" />
+    <Point x="-8.8125" y="9.7625" />
+    <Point x="8.8125" y="9.7625" />
+    <Point x="8.8125" y="-9.7625" />
+    <Point x="-8.8125" y="-9.7625" />
+   </Path>
+  </Layer>
+  <Layer name="PACKAGE GEOMETRY/DFA_BOUND_TOP" packageHeight="2.5400" >
+   <Path lineWidth="0.0000" type="shape" >
+    <Point x="-8.8125" y="-9.7625" />
+    <Point x="-8.8125" y="9.7625" />
+    <Point x="8.8125" y="9.7625" />
+    <Point x="8.8125" y="-9.7625" />
+    <Point x="-8.8125" y="-9.7625" />
+   </Path>
+  </Layer>
+  <Layer name="MANUFACTURING/NO_PROBE_TOP" packageHeight="2.5400" >
+   <Path lineWidth="0.0000" type="shape" >
+    <Point x="-8.8125" y="-9.7625" />
+    <Point x="-8.8125" y="9.7625" />
+    <Point x="8.8125" y="9.7625" />
+    <Point x="8.8125" y="-9.7625" />
+    <Point x="-8.8125" y="-9.7625" />
+   </Path>
+  </Layer>
+  <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="2.5400" >
+   <Path lineWidth="0.1000" type="line" >
+    <Point x="7.9375" y="8.8875" />
+    <Point x="7.9375" y="-8.8875" />
+    <Point x="-7.9375" y="-8.8875" />
+    <Point x="-7.9375" y="8.8875" />
+    <Point x="7.9375" y="8.8875" />
+   </Path>
+   <Label layer="REF DES/ASSEMBLY_TOP" textBlock="3" angle="90" x="0.6750" y="0.0000" text="Ref" />
+   <Circle type="line" lineWidth="0.1000" originX="0.0000" originY="6.2125" radius="0.5000" />
+  </Layer>
+  <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="2.5400" >
+   <Path lineWidth="0.2000" type="line" >
+    <Point x="-6.3750" y="-8.8875" />
+    <Point x="-7.9375" y="-8.8875" />
+    <Point x="-7.9375" y="-7.3250" />
+   </Path>
+   <Path lineWidth="0.2000" type="line" >
+    <Point x="-7.9375" y="7.3250" />
+    <Point x="-7.9375" y="8.8875" />
+    <Point x="-6.3750" y="8.8875" />
+   </Path>
+   <Path lineWidth="0.2000" type="line" >
+    <Point x="6.3750" y="8.8875" />
+    <Point x="7.9375" y="8.8875" />
+    <Point x="7.9375" y="7.3250" />
+   </Path>
+   <Path lineWidth="0.2000" type="line" >
+    <Point x="7.9375" y="-7.3250" />
+    <Point x="7.9375" y="-8.8875" />
+    <Point x="6.3750" y="-8.8875" />
+   </Path>
+   <Label layer="REF DES/SILKSCREEN_TOP" textBlock="3" angle="90" x="-7.3625" y="0.0000" text="Ref" />
+   <Label layer="DEVICE TYPE/SILKSCREEN_TOP" textBlock="3" angle="90" x="-7.3625" y="0.0000" text="Dev" />
+   <Circle type="shape" lineWidth="0.1000" originX="0.0000" originY="6.2125" radius="0.4000" />
+  </Layer>
+ </Layers>
+</Footprint>

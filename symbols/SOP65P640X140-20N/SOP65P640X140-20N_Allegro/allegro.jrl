@@ -1,0 +1,91 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Nov 13 22:27:47 2017
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=10840 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP65P640X140-20N/SOP65P640X140-20N_Allegro/SOP65P640X140-20N.scr.txt
+\t (00:00:04) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 729
+\i (00:00:04) trapsize 747
+\i (00:00:04) trapsize 1237
+\i (00:00:04) trapsize 1237
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 31426
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (4 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "SOP65P640X140-20N.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 18508
+\i (00:00:05) trapsize 18969
+\i (00:00:05) trapsize 31426
+\i (00:00:05) trapsize 31426
+\i (00:00:05) trapsize 28198
+\i (00:00:05) trapsize 2337
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Symbol Created
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP65P640X140-20N/SOP65P640X140-20N_Allegro/sop65p640x140-20n.psm'.
+\t (00:00:05) Starting Create symbol...
+\i (00:00:06) trapsize 637
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 623
+\i (00:00:06) trapsize 637
+\i (00:00:06) trapsize 637
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP65P640X140-20N/SOP65P640X140-20N_Allegro/SOP65P640X140-20N.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) trapsize 637
+\i (00:00:07) zoom out 0.100000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 0.2633 1.7340 0.1
+\i (00:00:08) trapsize 700
+\i (00:00:08) zoom out 0.100000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 0.2633 1.7340 0.1
+\i (00:00:08) trapsize 770
+\i (00:00:08) generaledit 
+\i (00:00:08) zoom out 0.100000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.3866 1.7494 0.1
+\i (00:00:08) trapsize 847
+\i (00:00:09) show measure 
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -1.7117 3.5630 0.1
+\i (00:00:10) trapsize 770
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.2665 3.2858 0.1
+\i (00:00:10) trapsize 700
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.3224 3.2578 0.1
+\i (00:00:10) trapsize 637
+\i (00:00:10) pick grid -2.8827 2.9777
+\t (00:00:10) last pick:  -2.9000 3.0000
+\i (00:00:14) pick grid 2.8478 3.0286
+\t (00:00:14) last pick:  2.8000 3.0000
+\i (00:00:21) pick grid 2.9115 2.3028
+\t (00:00:21) last pick:  2.9000 2.3000
+\i (00:01:05) show element 
+\i (00:01:05) show measure 
+\i (00:01:06) setwindow text
+\i (00:01:06) close 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) pick grid -2.7936 2.9522
+\t (00:01:07) last pick:  -2.8000 3.0000
+\i (00:01:07) pick grid 2.7969 2.9650
+\t (00:01:07) last pick:  2.8000 3.0000
+\i (00:01:17) zoom out 0.100000 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 2.1092 2.9777 0.1
+\i (00:01:17) trapsize 700
+\i (00:01:39) save 
+\i (00:01:41) fillin yes 
+\t (00:01:41) Symbol 'sop65p640x140-20n.psm' created.
+\i (00:01:41) generaledit 
+\i (00:01:43) exit 
+\t (00:01:43)     Journal end - Mon Nov 13 22:29:26 2017

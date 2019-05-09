@@ -1,0 +1,46 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Oct 28 19:39:27 2017
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=8408 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP8-208MIL/SOP8-208MIL_Allegro/SOP8-208MIL.scr.txt
+\t (00:00:04) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1093
+\i (00:00:04) trapsize 1134
+\i (00:00:04) trapsize 1568
+\i (00:00:04) trapsize 1568
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 39834
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (4 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "SOP8-208MIL.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 27752
+\i (00:00:04) trapsize 28801
+\i (00:00:04) trapsize 39834
+\i (00:00:05) trapsize 39834
+\i (00:00:05) trapsize 33934
+\i (00:00:05) trapsize 2570
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Symbol Created
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP8-208MIL/SOP8-208MIL_Allegro/sop8-208mil.psm'.
+\t (00:00:05) Starting Create symbol...
+\i (00:00:05) trapsize 696
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 675
+\i (00:00:05) trapsize 696
+\i (00:00:05) trapsize 696
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SOP8-208MIL/SOP8-208MIL_Allegro/SOP8-208MIL.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) trapsize 696
+\i (00:00:10) save_as 
+\i (00:00:15) fillin "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\SOP8-208MIL.dra"
+\i (00:00:15) cd "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols"
+\t (00:00:15) Symbol 'sop8-208mil.psm' created.
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Sat Oct 28 19:39:42 2017

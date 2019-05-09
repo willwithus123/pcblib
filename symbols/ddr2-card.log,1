@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ddr2-card.dra                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 02 10:32:39 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = ddr2-card.psm
+    User      = Administrator
+    Machine   = USER-20150528KY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAPAE1040X1050N.dra                           )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Thu Oct 26 17:31:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols_create/CAPAE1040X1050N/CAPAE1040X1050N_Allegro
+    Name      = capae1040x1050n.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

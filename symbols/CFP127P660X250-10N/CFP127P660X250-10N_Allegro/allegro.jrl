@@ -1,0 +1,14 @@
+\t (00:00:01) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Jun 09 11:32:46 2018
+\t (00:00:01)         Host=DESKTOP-SDTG982 User=will Pid=10080 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\CFP127P660X250-10N\CFP127P660X250-10N_Allegro\CFP127P660X250-10N.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/CFP127P660X250-10N/CFP127P660X250-10N_Allegro/CFP127P660X250-10N.dra
+\i (00:00:03) trapsize 1430
+\i (00:00:03) trapsize 1466
+\i (00:00:03) trapsize 1315
+\i (00:00:03) trapsize 1315
+\i (00:00:04) exit 
+\t (00:00:05)     Journal end - Sat Jun 09 11:32:49 2018

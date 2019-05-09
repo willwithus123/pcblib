@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 30x19x1.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jul 27 18:00:50 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = 30x19x1.psm
+    User      = Administrator
+    Machine   = USER-20150528KY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

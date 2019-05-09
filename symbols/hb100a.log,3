@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HB100A.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Oct 16 14:31:58 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = hb100a.psm
+    User      = Administrator
+    Machine   = USER-20150528KY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : header2-2mm.dra                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri May 08 11:16:24 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = header2-2mm.psm
+    User      = Administrator
+    Machine   = LSY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

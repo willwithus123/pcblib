@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SARA-N2.dra                                   )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Sun Nov 19 20:32:56 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols
+    Name      = sara-n2.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+ Duplicate pin number 54. 
+ WARNING(SPMHA1-298): Create symbol duplicate pin numbers. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

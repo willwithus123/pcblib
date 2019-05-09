@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : header4-100Mil.dra                            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jun 18 15:38:26 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = header4-100mil.psm
+    User      = Administrator
+    Machine   = USER-20150528KY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

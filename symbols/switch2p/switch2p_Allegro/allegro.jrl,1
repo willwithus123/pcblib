@@ -1,0 +1,51 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Oct 06 21:16:58 2017
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=7448 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/switch2p/switch2p_Allegro/switch2p.scr.txt
+\t (00:00:04) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 785
+\i (00:00:04) trapsize 806
+\i (00:00:04) trapsize 1204
+\i (00:00:04) trapsize 1204
+\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:05) trapsize 30581
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (4 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "switch2p.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 19948
+\i (00:00:05) trapsize 20484
+\i (00:00:05) trapsize 30581
+\i (00:00:05) trapsize 30581
+\i (00:00:05) trapsize 1845
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Symbol Created
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/switch2p/switch2p_Allegro/switch2p.psm'.
+\t (00:00:05) Starting Create symbol...
+\i (00:00:06) trapsize 394
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 383
+\i (00:00:06) trapsize 394
+\i (00:00:06) trapsize 394
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/switch2p/switch2p_Allegro/switch2p.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) trapsize 394
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.0472 0.8036
+\i (00:00:07) trapsize 787
+\i (00:00:07) generaledit 
+\i (00:00:17) save_as 
+\i (00:00:23) fillin "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\switch2p.dra"
+\i (00:00:23) cd "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols"
+\t (00:00:23) Symbol 'switch2p.psm' created.
+\i (00:00:23) generaledit 
+\i (00:00:30) exit 
+\t (00:00:30)     Journal end - Fri Oct 06 21:17:24 2017

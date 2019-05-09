@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DIP200P2900X533-32N.dra                       )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Mon Jan 29 11:43:24 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DIP200P2900X533-32N/DIP200P2900X533-32N_Allegro
+    Name      = dip200p2900x533-32n.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+ Duplicate pin number 3. 
+ WARNING(SPMHA1-298): Create symbol duplicate pin numbers. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

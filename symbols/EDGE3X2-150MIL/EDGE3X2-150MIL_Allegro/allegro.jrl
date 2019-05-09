@@ -1,0 +1,68 @@
+\t (00:00:02) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Oct 08 13:39:10 2017
+\t (00:00:02)         Host=DESKTOP-SDTG982 User=will Pid=2624 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/EDGE3X2-150MIL/EDGE3X2-150MIL_Allegro/EDGE3X2-150MIL.scr.txt
+\t (00:00:02) 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 563
+\i (00:00:02) trapsize 573
+\i (00:00:03) trapsize 1204
+\i (00:00:03) trapsize 1204
+\i (00:00:03) trapsize 1039
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:03) trapsize 26389
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (4 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 14293
+\i (00:00:03) trapsize 14566
+\i (00:00:03) trapsize 30581
+\i (00:00:03) trapsize 30581
+\i (00:00:03) trapsize 26389
+\t (00:00:04) Opening Design "EDGE3X2-150MIL.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 14293
+\i (00:00:04) trapsize 14566
+\i (00:00:04) trapsize 30581
+\i (00:00:04) trapsize 30581
+\i (00:00:04) trapsize 7439
+\t (00:00:04) Creating Shapes on Package layers
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Symbol Created
+\t (00:00:04) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/EDGE3X2-150MIL/EDGE3X2-150MIL_Allegro/edge3x2-150mil.psm'.
+\t (00:00:04) Starting Create symbol...
+\i (00:00:04) trapsize 1632
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:05) trapsize 1590
+\i (00:00:05) trapsize 1632
+\i (00:00:05) trapsize 1632
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/EDGE3X2-150MIL/EDGE3X2-150MIL_Allegro/EDGE3X2-150MIL.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) trapsize 1632
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 7.2527 12.4104
+\i (00:00:06) trapsize 816
+\i (00:00:06) generaledit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 7.3017 12.4757
+\i (00:00:06) trapsize 408
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 7.4242 12.4513
+\i (00:00:06) trapsize 816
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 7.4242 12.4349
+\i (00:00:06) trapsize 1632
+\i (00:00:15) exit 
+\e (00:00:15) Do you want to save the changes you made to EDGE3X2-150MIL.dra?
+\i (00:00:18) fillin yes 
+\t (00:00:19) Symbol 'edge3x2-150mil.psm' created.
+\t (00:00:19)     Journal end - Sun Oct 08 13:39:26 2017

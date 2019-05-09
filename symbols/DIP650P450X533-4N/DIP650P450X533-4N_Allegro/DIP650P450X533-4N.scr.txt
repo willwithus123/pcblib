@@ -1,0 +1,2 @@
+cd "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DIP650P450X533-4N/DIP650P450X533-4N_Allegro"
+skill (LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/DIP650P450X533-4N/DIP650P450X533-4N_Allegro/DIP650P450X533-4N.xml")

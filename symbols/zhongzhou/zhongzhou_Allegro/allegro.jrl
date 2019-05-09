@@ -1,0 +1,171 @@
+\t (00:00:02) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jun 11 10:47:05 2018
+\t (00:00:02)         Host=DESKTOP-SDTG982 User=will Pid=4924 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\zhongzhou\zhongzhou_Allegro\zhongzhou.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/zhongzhou/zhongzhou_Allegro/zhongzhou.dra
+\i (00:00:03) trapsize 1543
+\i (00:00:03) trapsize 1581
+\i (00:00:03) trapsize 1419
+\i (00:00:03) trapsize 1419
+\i (00:00:04) zoom in 0.100000 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 1.7338 -0.8187 0.1
+\i (00:00:04) trapsize 1290
+\i (00:00:05) zoom in 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.1467 -0.6897 0.1
+\i (00:00:05) trapsize 1173
+\i (00:00:05) zoom in 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.1232 -0.6662 0.1
+\i (00:00:05) trapsize 1066
+\i (00:00:05) zoom in 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.0166 -0.4529 0.1
+\i (00:00:05) trapsize 969
+\i (00:00:05) zoom in 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 0.8362 0.0704 0.1
+\i (00:00:05) trapsize 881
+\i (00:00:05) zoom in 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.0301 0.1057 0.1
+\i (00:00:05) trapsize 801
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 1.5747 0.2659 0.1
+\i (00:00:05) trapsize 881
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 1.5747 0.2660 0.1
+\i (00:00:05) trapsize 969
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 1.5747 0.2660 0.1
+\i (00:00:05) trapsize 1066
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 1.5747 0.2660 0.1
+\i (00:00:05) trapsize 1173
+\i (00:00:05) zoom out 0.100000 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 1.5747 0.2660 0.1
+\i (00:00:05) trapsize 1290
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.3593 1.2980 0.1
+\i (00:00:06) trapsize 1173
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.4062 1.3450 0.1
+\i (00:00:06) trapsize 1066
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.4275 1.4304 0.1
+\i (00:00:06) trapsize 969
+\i (00:00:37) delete 
+\i (00:00:39) pick grid 2.5844 0.0543
+\t (00:00:39) last pick:  2.5400 0.0000
+\t (00:00:39) Pin "C147h87t127_157, 5"
+\i (00:00:39) pick grid 9.5229 0.3063
+\t (00:00:39) last pick:  10.1600 0.0000
+\i (00:00:40) zoom in 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 3.7085 0.9071 0.1
+\i (00:00:40) trapsize 881
+\i (00:00:40) zoom in 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 3.7085 0.8543 0.1
+\i (00:00:40) trapsize 801
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 3.7085 0.8062 0.1
+\i (00:00:40) trapsize 881
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 3.7084 0.8063 0.1
+\i (00:00:40) trapsize 969
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 3.7084 0.8063 0.1
+\i (00:00:40) trapsize 1066
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 3.7084 0.8063 0.1
+\i (00:00:40) trapsize 1173
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 3.7085 0.8064 0.1
+\i (00:00:41) trapsize 1290
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -3.1908 -0.9992 0.1
+\i (00:00:42) trapsize 1173
+\i (00:00:45) text edit 
+\i (00:00:46) pick grid -2.2293 -1.9372
+\t (00:00:46) last pick:  -2.5400 -2.5400
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick grid -2.2762 0.2672
+\t (00:00:48) last pick:  -2.5400 0.0000
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick -2.2293 -1.9372
+\t (00:00:48) Pick text to edit.
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick grid -2.2997 2.7296
+\t (00:00:49) last pick:  -2.5400 2.5400
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick -2.2762 0.2672
+\i (00:00:53) setwindow pcb
+\i (00:00:53) pick grid 2.2733 2.3309
+\t (00:00:53) last pick:  2.5400 2.5400
+\i (00:00:53) setwindow pcb
+\i (00:00:53) pick -2.2997 2.7296
+\t (00:00:53) Pick text to edit.
+\i (00:00:54) setwindow pcb
+\i (00:00:54) pick grid 2.1326 -2.1014
+\t (00:00:54) last pick:  2.5400 -2.5400
+\i (00:00:54) setwindow pcb
+\i (00:00:54) pick 2.2733 2.3309
+\t (00:00:54) Pick text to edit.
+\i (00:00:56) setwindow pcb
+\i (00:00:56) prepopup 10.4578 1.5336
+\i (00:00:57) done 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) pick 2.1326 -2.1014
+\t (00:00:57) Pick text to edit.
+\i (00:01:09) setwindow pcb
+\i (00:01:09) add connect 
+\w (00:01:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:09) Pick first element.
+\i (00:01:10) pick grid 0.1158 -4.0713
+\t (00:01:10) last pick:  0.1000 -4.1000
+\t (00:01:10) last pick:  0.0000 -4.0000
+\t (00:01:10) last pick:  0.0000 -4.0000
+\i (00:01:11) Esc 
+\i (00:01:12) prepopup 0.0924 -1.2102
+\i (00:01:12) oops 
+\t (00:01:12) last pick:  0.0000 -4.0000
+\t (00:01:12) Pick first element.
+\i (00:01:23) text edit 
+\i (00:01:24) pick grid -1.5727 -3.8602
+\t (00:01:24) last pick:  -1.6000 -3.9000
+\i (00:01:28) setwindow pcb
+\i (00:01:28) pick grid -1.5258 4.0429
+\t (00:01:28) last pick:  -1.5000 4.0000
+\i (00:01:29) setwindow pcb
+\i (00:01:29) prepopup 8.1831 2.6827
+\i (00:01:30) done 
+\i (00:02:31) delete_via_structure 
+\i (00:02:35) pick grid -0.0718 -4.3293
+\t (00:02:35) last pick:  -0.1000 -4.3000
+\i (00:02:38) setwindow form.del_vs
+\i (00:02:38) FORM del_vs cancel  
+\i (00:10:04) setwindow pcb
+\i (00:10:04) save 
+\i (00:10:06) fillin yes 
+\t (00:10:07) Symbol 'zhongzhou.psm' created.
+\i (00:10:07) exit 
+\t (00:10:07)     Journal end - Mon Jun 11 10:57:10 2018

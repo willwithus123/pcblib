@@ -1,0 +1,9 @@
+(Device File: LED_C_9mm)
+
+PACKAGE LED_C_9mm
+CLASS IC
+PINCOUNT 2
+PINORDER LED_C_9mm 'C' 'A' 
+FUNCTION g1 LED_C_9mm 'C' 'A' 
+
+END

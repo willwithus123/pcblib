@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : zigbeeM.dra                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Apr 22 14:30:46 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols
+    Name      = zigbeem.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

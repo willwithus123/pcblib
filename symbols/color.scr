@@ -1,0 +1,48 @@
+# Allegro script
+#	file: E:\PCB\library\RAY_LIB\color.scr
+#	start time: Thu Sep 12 10:59:48 2002
+version 14.2
+
+setwindow pcb
+trapsize 28
+color 
+setwindow form.cvf_main
+FORM cvf_main class_list Stack-Up
+FORM cvf_main global_vis All Invisible 
+fillin yes 
+FORM cvf_main color8 7 
+FORM cvf_main pin/top/color 8 
+FORM cvf_main pin/top/visible YES 
+FORM cvf_main via_class/top/visible YES 
+FORM cvf_main via_class/top/color 8 
+FORM cvf_main drc_error_class/top/visible YES 
+FORM cvf_main drc_error_class/top/color 8 
+FORM cvf_main etch/top/visible YES 
+FORM cvf_main etch/top/color 8 
+FORM cvf_main anti_etch/top/visible YES 
+FORM cvf_main anti_etch/top/color 8 
+FORM cvf_main color12 11 
+FORM cvf_main pin/bottom/visible YES 
+FORM cvf_main pin/bottom/color 12 
+FORM cvf_main via_class/bottom/visible YES 
+FORM cvf_main via_class/bottom/color 12 
+FORM cvf_main drc_error_class/bottom/visible YES 
+FORM cvf_main drc_error_class/bottom/color 12 
+FORM cvf_main etch/bottom/visible YES 
+FORM cvf_main etch/bottom/color 12 
+FORM cvf_main anti_etch/bottom/visible YES 
+FORM cvf_main anti_etch/bottom/color 12 
+FORM cvf_main class_list Geometry 
+FORM cvf_main color1 0 
+FORM cvf_main board_geometry/outline/visible YES 
+FORM cvf_main board_geometry/outline/color 1 
+FORM cvf_main color24 23 
+FORM cvf_main package_geometry/silkscreen_top/visible YES 
+FORM cvf_main package_geometry/silkscreen_top/color 24 
+FORM cvf_main color19 18 
+FORM cvf_main package_geometry/silkscreen_bottom/visible YES 
+FORM cvf_main package_geometry/silkscreen_bottom/color 19 
+FORM cvf_main apply  
+FORM cvf_main ok  
+
+#	stop time: Thu Sep 12 11:00:55 2002

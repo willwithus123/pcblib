@@ -1,0 +1,2 @@
+cd "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/EDGE3X2-150MIL/EDGE3X2-150MIL_Allegro"
+skill (LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/EDGE3X2-150MIL/EDGE3X2-150MIL_Allegro/EDGE3X2-150MIL.xml")

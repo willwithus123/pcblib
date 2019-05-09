@@ -1,0 +1,247 @@
+\t (00:00:07) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Sun Jun 10 23:26:52 2018
+\t (00:00:07)         Host=DESKTOP-SDTG982 User=will Pid=7136 CPUs=4
+\t (00:00:07) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/zhongzhou/zhongzhou_Allegro/zhongzhou.scr.txt
+\t (00:00:07) 
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 684
+\i (00:00:07) trapsize 700
+\i (00:00:07) trapsize 1322
+\i (00:00:07) trapsize 1322
+\w (00:00:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:07) trapsize 33577
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (4 threads).
+\t (00:00:07) No DRC errors detected.
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 17375
+\i (00:00:08) trapsize 17780
+\i (00:00:08) trapsize 33577
+\i (00:00:08) trapsize 33577
+\t (00:00:08) Opening Design "zhongzhou.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 17375
+\i (00:00:08) trapsize 17780
+\i (00:00:08) trapsize 33577
+\i (00:00:08) trapsize 33577
+\i (00:00:08) trapsize 30581
+\i (00:00:09) trapsize 2765
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Symbol Created
+\t (00:00:09) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/zhongzhou/zhongzhou_Allegro/zhongzhou.psm'.
+\t (00:00:09) Starting Create symbol...
+\i (00:00:09) trapsize 694
+   (00:00:09) Loading cmds.cxt 
+   (00:00:09) Loading skillExt.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 679
+\i (00:00:09) trapsize 694
+\i (00:00:09) trapsize 694
+\d (00:00:09) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/zhongzhou/zhongzhou_Allegro/zhongzhou.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) trapsize 694
+\i (00:00:36) add pin 
+\i (00:00:38) setwindow form.mini
+\i (00:00:38) FORM mini pad_browse  
+\i (00:01:47) fillin "54C41d"
+\w (00:01:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:47) Using '54C41D.pad'.
+\i (00:03:01) setwindow pcb
+\i (00:03:01) pick 0, y 4 
+\t (00:03:01) last pick:  0.0000 4.0000
+\t (00:03:01) Using '54C41D.pad'.
+\i (00:03:05) pick 0, y -4 
+\t (00:03:05) last pick:  0.0000 -4.0000
+\t (00:03:05) Using '54C41D.pad'.
+\i (00:03:07) zoom out 0.100000 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 5.8780 0.0648 0.1
+\i (00:03:07) trapsize 763
+\i (00:03:09) save 
+\t (00:03:09) Exiting from Add Pin.
+\i (00:03:11) fillin yes 
+\e (00:03:11) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:03:13) setwindow text
+\i (00:03:13) close 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) text edit 
+\i (00:03:19) pick grid 0.0939 4.4601
+\t (00:03:19) last pick:  0.0000 5.0800
+\i (00:03:20) setwindow pcb
+\i (00:03:20) pick grid 0.0634 3.6055
+\t (00:03:20) last pick:  0.0000 2.5400
+\i (00:03:20) setwindow pcb
+\i (00:03:20) pick 0.0939 4.4601
+\i (00:03:21) setwindow pcb
+\i (00:03:21) pick grid 0.1855 3.4224
+\t (00:03:21) last pick:  0.0000 2.5400
+\i (00:03:21) setwindow pcb
+\i (00:03:21) pick 0.0634 3.6055
+\i (00:03:22) setwindow pcb
+\i (00:03:22) pick grid 0.1092 -4.2541
+\t (00:03:22) last pick:  0.0000 -5.0800
+\i (00:03:22) setwindow pcb
+\i (00:03:22) pick 0.1855 3.4224
+\e (00:03:22) ERROR(SPMHA1-441): Text not found.
+\i (00:03:23) setwindow pcb
+\i (00:03:23) pick grid 0.1092 -4.1473
+\t (00:03:23) last pick:  0.0000 -5.0800
+\e (00:03:23) ERROR(SPMHA1-441): Text not found.
+\i (00:03:24) setwindow pcb
+\i (00:03:24) pick grid 0.0481 -4.2846
+\t (00:03:24) last pick:  0.0000 -5.0800
+\e (00:03:24) ERROR(SPMHA1-441): Text not found.
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out 0.0481 -4.2846 0.1
+\i (00:03:24) trapsize 839
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -0.9439 -4.2845 0.1
+\i (00:03:24) trapsize 923
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -2.9903 -4.2845 0.1
+\i (00:03:24) trapsize 1016
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -5.2413 -4.2845 0.1
+\i (00:03:24) trapsize 1117
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -7.7174 -4.2845 0.1
+\i (00:03:24) trapsize 1229
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -10.4412 -4.2844 0.1
+\i (00:03:24) trapsize 1352
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -10.1114 -4.2844 0.1
+\i (00:03:24) trapsize 1487
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -9.1705 -4.2843 0.1
+\i (00:03:24) trapsize 1636
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -8.1356 -4.2842 0.1
+\i (00:03:24) trapsize 1799
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -6.9971 -4.6700 0.1
+\i (00:03:24) trapsize 1979
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -5.7449 -7.1169 0.1
+\i (00:03:24) trapsize 2177
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -4.3674 -9.8086 0.1
+\i (00:03:24) trapsize 2395
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -2.8521 -12.7694 0.1
+\i (00:03:24) trapsize 2765
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -0.2765 -17.8023 0.1
+\i (00:03:24) trapsize 2765
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -0.2765 -17.8023 0.1
+\i (00:03:24) trapsize 2765
+\i (00:03:24) zoom out 0.100000 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -0.2765 -17.8023 0.1
+\i (00:03:24) trapsize 2765
+\i (00:03:25) zoom in 0.100000 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom in -0.2765 -17.8023 0.1
+\i (00:03:25) trapsize 2514
+\i (00:03:27) zoom in 0.100000 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -0.1156 -5.6367 0.1
+\i (00:03:27) trapsize 2285
+\i (00:03:27) zoom in 0.100000 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -2.0625 -5.7281 0.1
+\i (00:03:27) trapsize 2077
+\i (00:03:27) zoom in 0.100000 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -3.6495 -5.7280 0.1
+\i (00:03:27) trapsize 1888
+\i (00:03:27) zoom in 0.100000 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -5.0923 -5.7280 0.1
+\i (00:03:27) trapsize 1717
+\i (00:03:28) zoom in 0.100000 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom in -6.4039 -5.7279 0.1
+\i (00:03:28) trapsize 1561
+\i (00:03:28) zoom in 0.100000 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom in -7.5963 -5.7279 0.1
+\i (00:03:28) trapsize 1419
+\i (00:03:29) pick grid 0.2015 -4.5928
+\t (00:03:29) last pick:  0.0000 -5.0800
+\e (00:03:29) ERROR(SPMHA1-441): Text not found.
+\i (00:03:30) setwindow pcb
+\i (00:03:30) pick grid -0.0823 -4.5928
+\t (00:03:30) last pick:  0.0000 -5.0800
+\e (00:03:30) ERROR(SPMHA1-441): Text not found.
+\i (00:03:32) setwindow pcb
+\i (00:03:32) show element 
+\i (00:03:33) pick grid 0.0312 -4.3374
+\t (00:03:33) last pick:  0.0000 -5.0800
+\i (00:03:35) setwindow text
+\i (00:03:35) close 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) text edit 
+\i (00:03:41) pick grid 0.0596 -4.3941
+\t (00:03:41) last pick:  0.0000 -5.0800
+\e (00:03:41) ERROR(SPMHA1-441): Text not found.
+\i (00:03:42) setwindow pcb
+\i (00:03:42) pick grid 0.0596 -4.3941
+\t (00:03:42) last pick:  0.0000 -5.0800
+\e (00:03:42) ERROR(SPMHA1-441): Text not found.
+\i (00:03:42) setwindow pcb
+\i (00:03:42) pick grid dbl 0.0596 -4.3941
+\t (00:03:42) last pick:  0.0000 -5.0800
+\e (00:03:42) ERROR(SPMHA1-441): Text not found.
+\i (00:03:46) setwindow pcb
+\i (00:03:46) color192 
+\i (00:03:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:03:52) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 11 0
+\i (00:03:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Pin_Number PkgGeo
+\i (00:03:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom PkgGeo
+\i (00:03:52) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:54) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:03:55) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:03:58) pick grid -1.5011 -3.9969
+\t (00:03:58) last pick:  -2.5400 -5.0800
+\i (00:04:05) setwindow pcb
+\i (00:04:05) pick grid -1.4159 3.8634
+\t (00:04:05) last pick:  -2.5400 5.0800
+\i (00:04:05) setwindow pcb
+\i (00:04:05) pick -1.5011 -3.9969
+\t (00:04:05) Pick text to edit.
+\i (00:04:08) setwindow pcb
+\i (00:04:08) save 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) pick -1.4159 3.8634
+\t (00:04:08) Pick text to edit.
+\i (00:04:10) fillin yes 
+\t (00:04:10) Symbol 'zhongzhou.psm' created.
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 0.100000 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 5.4227 6.1335 0.1
+\i (00:04:13) trapsize 1561
+\i (00:04:15) exit 
+\t (00:04:15)     Journal end - Sun Jun 10 23:31:00 2018

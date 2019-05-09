@@ -1,0 +1,33 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sun May 05 10:15:13 2019
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=6756 CPUs=4
+\t (00:00:04) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\r0805.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/r0805.dra
+\i (00:00:05) trapsize 629
+\i (00:00:06) trapsize 653
+\i (00:00:06) trapsize 652
+\i (00:00:06) trapsize 652
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2371 -0.0184 0.1
+\i (00:00:06) trapsize 593
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2371 -0.0183 0.1
+\i (00:00:06) trapsize 539
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2371 -0.0182 0.1
+\i (00:00:06) trapsize 490
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2370 -0.0182 0.1
+\i (00:00:06) trapsize 445
+\i (00:00:08) save 
+\i (00:00:09) fillin yes 
+\t (00:00:09) Symbol 'r0805.psm' created.
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Sun May 05 10:15:20 2019

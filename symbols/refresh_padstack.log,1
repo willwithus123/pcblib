@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : ECAP-4mm.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu May 21 14:42:22 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu May 21 14:42:22 2015				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/ECAP-4mm.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'8050C35D'  pad stack refresh starting.
+
+     '8050C35D'  pad stack refreshed successfully.
+     
+'80C35D'  pad stack refresh starting.
+
+     '80C35D'  pad stack refreshed successfully.
+     
+'60S35D'  pad stack refresh starting.
+
+     '60S35D'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

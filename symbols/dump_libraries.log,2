@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Tue Jan 23 19:15:36 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/to92-oval.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  B101_203M223_121H81 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                1
+
+Total number of symbols dumped:            0
+*****************************************************
+

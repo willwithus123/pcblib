@@ -1,0 +1,42 @@
+\t (00:00:05) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Nov 08 08:42:17 2017
+\t (00:00:05)         Host=DESKTOP-SDTG982 User=will Pid=12236 CPUs=4
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/QFN65P500X500X80-20N/QFN65P500X500X80-20N_Allegro/QFN65P500X500X80-20N.scr.txt
+\t (00:00:05) 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 1093
+\i (00:00:06) trapsize 1134
+\i (00:00:06) trapsize 1568
+\i (00:00:06) trapsize 1568
+\w (00:00:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:06) trapsize 39834
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (4 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "QFN65P500X500X80-20N.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 27752
+\i (00:00:06) trapsize 28801
+\i (00:00:06) trapsize 39834
+\i (00:00:06) trapsize 39834
+\i (00:00:06) trapsize 33934
+\i (00:00:07) trapsize 2548
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Symbol Created
+\t (00:00:07) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/QFN65P500X500X80-20N/QFN65P500X500X80-20N_Allegro/qfn65p500x500x80-20n.psm'.
+\t (00:00:07) Starting Create symbol...
+\i (00:00:07) trapsize 682
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 660
+\i (00:00:07) trapsize 682
+\i (00:00:07) trapsize 682
+\d (00:00:07) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/QFN65P500X500X80-20N/QFN65P500X500X80-20N_Allegro/QFN65P500X500X80-20N.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) trapsize 682
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Wed Nov 08 08:42:22 2017

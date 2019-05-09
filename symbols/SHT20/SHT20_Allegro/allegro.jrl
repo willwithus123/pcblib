@@ -1,0 +1,38 @@
+\t (00:00:03) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Apr 11 16:37:47 2018
+\t (00:00:03)         Host=DESKTOP-SDTG982 User=will Pid=11728 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\SHT20\SHT20_Allegro\SHT20.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/SHT20/SHT20_Allegro/SHT20.dra
+\i (00:00:04) trapsize 739
+\i (00:00:04) trapsize 757
+\i (00:00:05) trapsize 679
+\i (00:00:05) trapsize 729
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2000 -0.7667 0.1
+\i (00:00:06) trapsize 663
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.1005 -0.7534 0.1
+\i (00:00:06) trapsize 603
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.1592 -0.7414 0.1
+\i (00:00:06) trapsize 548
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.1153 -0.7304 0.1
+\i (00:00:06) trapsize 498
+\i (00:00:06) zoom in 0.100000 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.0655 -0.7304 0.1
+\i (00:00:06) trapsize 453
+\i (00:00:09) move 
+\t (00:00:10) Select element(s) to move.
+\i (00:00:53) exit 
+\e (00:00:53) Do you want to save the changes you made to SHT20.dra?
+\i (00:00:54) fillin no 
+\t (00:00:55)     Journal end - Wed Apr 11 16:38:39 2018

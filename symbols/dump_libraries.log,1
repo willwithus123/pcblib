@@ -1,0 +1,42 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Wed Nov 15 08:34:47 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/usb-microb-1051330011.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  U40_160M60_180P30_150 being dumped.
+
+  B100_200M220_120H50 being dumped.
+
+  B110_220M240_130H50 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  p30_150_etch being dumped.
+
+  u40_160_etch being dumped.
+
+  m60_180_sm being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+Number of shape symbols dumped:            3
+
+Total number of symbols dumped:            3
+*****************************************************
+

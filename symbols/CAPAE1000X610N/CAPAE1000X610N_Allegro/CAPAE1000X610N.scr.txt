@@ -1,0 +1,2 @@
+cd "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/CAPAE1000X610N/CAPAE1000X610N_Allegro"
+skill (LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/CAPAE1000X610N/CAPAE1000X610N_Allegro/CAPAE1000X610N.xml")

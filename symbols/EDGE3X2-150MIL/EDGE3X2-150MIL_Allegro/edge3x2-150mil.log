@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : EDGE3X2-150MIL.dra                            )
+(    Software Version : 17.2S020                                      )
+(    Date/Time        : Sun Oct 08 13:39:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/EDGE3X2-150MIL/EDGE3X2-150MIL_Allegro
+    Name      = edge3x2-150mil.psm
+    User      = will
+    Machine   = DESKTOP-SDTG982
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cy_3215_2p.dra                                )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Dec 03 10:00:55 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols
+    Name      = cy_3215_2p.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

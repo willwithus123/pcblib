@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sop20_l293dd.dra                              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Apr 18 20:58:44 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/99/L293DD/SOP20_L293DD
+    Name      = sop20_l293dd.psm
+    User      = will
+    Machine   = DESKTOP-QLLFRDH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

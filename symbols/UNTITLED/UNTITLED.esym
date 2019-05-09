@@ -1,0 +1,114 @@
+<Part 
+ name="UNTITLED"
+ aliasName=""
+ Library="C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols"
+ LP_Library=""
+ LP_Name=""
+ pdfFilePath="C:\Users\will\Desktop\SP3485_cn.pdf"
+ styleName="OrCAD_Capture"
+ pptName=""
+>
+
+<Constraints 
+ name="OrCAD_Capture"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="myValue"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraints>
+
+</Part>
+

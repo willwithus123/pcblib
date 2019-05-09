@@ -1,0 +1,1 @@
+2017-10-28T21:04:55 ===> "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/cap_pol_dip_5x20mm.dxf"

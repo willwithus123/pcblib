@@ -1,0 +1,45 @@
+\t (00:00:02) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Feb 01 15:12:11 2018
+\t (00:00:02)         Host=DESKTOP-SDTG982 User=will Pid=9408 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/LQFP64-40/LQFP64-40_Allegro/LQFP64-40.scr.txt
+\t (00:00:02) 
+\t (00:00:02) Starting new design...
+\i (00:00:03) trapsize 684
+\i (00:00:03) trapsize 700
+\i (00:00:03) trapsize 1322
+\i (00:00:03) trapsize 1322
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:03) trapsize 33577
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (4 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:03) Opening Design "LQFP64-40.dra"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 17363
+\i (00:00:03) trapsize 17768
+\i (00:00:03) trapsize 33577
+\i (00:00:03) trapsize 33577
+\i (00:00:03) trapsize 30581
+\i (00:00:04) trapsize 3212
+\t (00:00:04) Creating Shapes on Package layers
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Symbol Created
+\t (00:00:04) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/LQFP64-40/LQFP64-40_Allegro/lqfp64-40.psm'.
+\t (00:00:04) Starting Create symbol...
+\i (00:00:04) trapsize 839
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 821
+\i (00:00:04) trapsize 839
+\i (00:00:04) trapsize 839
+\d (00:00:04) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/LQFP64-40/LQFP64-40_Allegro/LQFP64-40.dra
+\t (00:00:04) Symbol Saved
+   (00:00:04) t
+\i (00:00:04) trapsize 839
+\i (00:00:11) save_as 
+\i (00:00:16) fillin "LQFP64-40.dra"
+\t (00:00:16) Symbol 'lqfp64-40.psm' created.
+\i (00:00:18) exit 
+\t (00:00:18)     Journal end - Thu Feb 01 15:12:26 2018

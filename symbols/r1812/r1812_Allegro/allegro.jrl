@@ -1,0 +1,93 @@
+\t (00:00:04) allegro 17.2 S020 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Oct 28 21:56:09 2017
+\t (00:00:04)         Host=DESKTOP-SDTG982 User=will Pid=4312 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/r1812/r1812_Allegro/r1812.scr.txt
+\t (00:00:04) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1093
+\i (00:00:04) trapsize 1134
+\i (00:00:04) trapsize 1568
+\i (00:00:04) trapsize 1568
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 39834
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (4 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "r1812.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 27752
+\i (00:00:05) trapsize 28801
+\i (00:00:05) trapsize 39834
+\i (00:00:05) trapsize 39834
+\i (00:00:05) trapsize 33934
+\i (00:00:05) trapsize 1749
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Symbol Created
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/r1812/r1812_Allegro/r1812.psm'.
+\t (00:00:05) Starting Create symbol...
+\i (00:00:05) trapsize 491
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 476
+\i (00:00:06) trapsize 491
+\i (00:00:06) trapsize 491
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/r1812/r1812_Allegro/r1812.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) trapsize 491
+\i (00:00:07) save 
+\i (00:00:09) fillin yes 
+\t (00:00:09) Symbol 'r1812.psm' created.
+\i (00:00:12) show measure 
+\i (00:00:15) pick grid -2.3646 1.1309
+\t (00:00:15) last pick:  -2.4000 1.1000
+\i (00:00:16) pick grid -2.3745 1.1801
+\t (00:00:16) last pick:  -2.4000 1.2000
+\i (00:00:18) setwindow text
+\i (00:00:18) close 
+\i (00:00:19) setwindow form.find
+\i (00:00:19) FORM find all_off  
+\i (00:00:20) FORM find clines YES 
+\i (00:00:21) FORM find lines YES 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) pick grid -2.3548 1.5241
+\t (00:00:22) last pick:  -2.4000 1.5000
+\i (00:00:24) pick grid 2.3827 1.4946
+\t (00:00:24) last pick:  2.4000 1.5000
+\i (00:00:29) pick grid 2.0190 1.6617
+\t (00:00:29) last pick:  2.0000 1.7000
+\i (00:00:31) pick grid 1.9502 -1.6212
+\t (00:00:31) last pick:  2.0000 -1.6000
+\i (00:00:36) prmed 
+\i (00:00:38) setwindow form.prmedit
+\i (00:00:38) FORM prmedit design  
+\i (00:00:39) FORM prmedit cancel  
+\i (00:00:41) setwindow pcb
+\i (00:00:41) enved 
+\i (00:00:42) generaledit 
+\i (00:00:46) setwindow form.prfedit
+\i (00:00:46) FORM prfedit searchf mea 
+\i (00:00:49) FORM prfedit showmeasure_altunits mils 
+\i (00:00:51) FORM prfedit apply  
+\i (00:00:52) FORM prfedit done  
+\i (00:00:55) setwindow pcb
+\i (00:00:55) show measure 
+\i (00:00:56) pick grid -2.4138 1.2980
+\t (00:00:56) last pick:  -2.4000 1.3000
+\i (00:00:58) pick grid 2.3729 1.2292
+\t (00:00:58) last pick:  2.4000 1.2000
+\i (00:01:02) pick grid 1.5767 1.6617
+\t (00:01:02) last pick:  1.6000 1.7000
+\i (00:01:03) pick grid 1.6259 -1.6113
+\t (00:01:03) last pick:  1.6000 -1.6000
+\i (00:01:06) setwindow text
+\i (00:01:06) close 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) exit 
+\e (00:01:15) Do you want to save the changes you made to C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/r1812/r1812_Allegro/r1812.dra?
+\i (00:01:16) fillin yes 
+\t (00:01:16) Symbol 'r1812.psm' created.
+\t (00:01:16)     Journal end - Sat Oct 28 21:57:21 2017

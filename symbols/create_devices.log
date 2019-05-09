@@ -1,0 +1,76 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : INTERPHONE_AD_VER3-1-26_150206.brd            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu May 21 17:06:19 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/header5_6_header4_cpld.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_7_fh12-18-1sh_port.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/stm8_lqfp32_stm8s103k3t6c.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/epm7032_1_tqfp44_epm7032.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/header2_header2-150mil_header2.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/power_ac_to_dc1_acdc_model1_pow.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_0r.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cy7c68013a-100_3_to252aa_78m05.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_1uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_1k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_10k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/capacitorpol_0_c0603_100uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/capacitorpol_0_c0603_10uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_nc10uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/capacitorpol_0_c0603_nc10uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/capacitornon-pol_c0603_01uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/1117_sot-223_1117.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_01uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/tpm_sop8_tpm.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/header5_header5_header.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/r_r0603_10k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/res_r0603_10k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/fdc634p_4_sot23_tcs1307.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/capacitorpol_0_capae660x570l_1.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/res_r0603_51k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cy7c68013a-100_4_to252aa_79m05.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/1211_23_sop8_5532.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cy7c68013a-100_0_header2_nchea.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cy7c68013a-100_0_header2_e_mic.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_nc10k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_nc33k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/1211_14_sop8_nc386.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_100.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_100pf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_nc.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_20k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_nc.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/header5_0_mh250c120d_h1.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/4051_6_soic16_4053.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_001uf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_22nf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_2_fh12-18-1sh_mic_in.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_0_fh12-18-1sh_port2.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_68k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_51k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_1_fh12-18-1sh_sound_out.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/1211_14_sop8_386.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistorvar_0_header3_10kdip.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/cap_0_c0603_100p.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_100k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_33k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/resistor_2_r0603_12k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_12_3m5-music-color_master_.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_12_3m5-music-color_maste_1.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_13_db9-h_db9.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_8_db15-vga_db15-1.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/con2_8_db15-vga_db15-2.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/npn_3_sot23_3906.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/r_1_r0603_1k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/r_1_r0603_10k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/新建文件夹/header5_6_header4_uart_51.txt': written successfully.
+
+  Created device files: 61
+

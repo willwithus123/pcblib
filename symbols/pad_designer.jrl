@@ -1,0 +1,43 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Sat Aug 05 12:06:38 2017
+\t (00:00:00)         Host=DESKTOP-SDTG982 User=will Pid=11060 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe C:\Cadence\Cadence_SPB_16.6-2015\share\pcb\pcb_lib\symbols\60x10obl.pad
+\t (00:00:00) 
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) pse_new 
+\i (00:00:06) fillin "menu_cancel"
+\i (00:00:09) FORM padedit units Millimeter 
+\i (00:00:10) fillin yes 
+\w (00:00:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:11) FORM padedit layers  
+\i (00:00:16) FORM padedit crossbox YES 
+\i (00:00:37) FORM padedit width 1.8 
+\i (00:00:40) FORM padedit height 3.9 
+\i (00:00:43) FORM padedit width_th 2.8 
+\i (00:00:46) FORM padedit height_th 4.9 
+\i (00:00:48) FORM padedit width_ant 2.8 
+\i (00:00:52) FORM padedit height_ant 4.9 
+\i (00:00:52) FORM padedit grid row soldermask_top 
+\i (00:00:58) FORM padedit width 1.8 
+\i (00:01:02) FORM padedit height 3.9 
+\i (00:01:02) FORM padedit grid row pastemask_top 
+\i (00:01:08) FORM padedit width 1.8 
+\i (00:01:12) FORM padedit height 3.9 
+\i (00:01:12) FORM padedit parameters  
+\i (00:01:14) FORM padedit units Mils 
+\i (00:01:15) fillin yes 
+\w (00:01:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:17) FORM padedit layers  
+\i (00:01:18) FORM padedit parameters  
+\i (00:01:22) FORM padedit layers  
+\i (00:01:23) FORM padedit grid row begin_layer 
+\i (00:01:25) FORM padedit geometry Rectangle 
+\i (00:01:27) FORM padedit grid row soldermask_top 
+\i (00:01:30) FORM padedit geometry Rectangle 
+\i (00:01:31) FORM padedit grid row pastemask_top 
+\i (00:01:33) FORM padedit geometry Rectangle 
+\i (00:01:36) FORM padedit parameters  
+\i (00:01:38) pse_save_as 
+\i (00:01:50) fillin "18mmx39mmobl.pad"
+\i (00:01:52) pse_exit
+\t (00:01:52)     Journal end - Sat Aug 05 12:08:31 2017
